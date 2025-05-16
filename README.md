@@ -1,4 +1,4 @@
-# Technical Documentation: Fuel Consumption Prediction System
+# Fuel Consumption Prediction System
 
 ## Overview
 
